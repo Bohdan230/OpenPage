@@ -2,7 +2,11 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Collections;
-
+/* Ввести число в консоль (n - число)
+   Сгенерировать n случайных чисел и записать их в ArrayList
+   Отредактировать list по возрастанию
+   Вывести list в консоль
+ */
 
 public class testvadim {
 
